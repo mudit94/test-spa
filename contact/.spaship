@@ -1,0 +1,17 @@
+{
+	"websiteVersion": "v1",
+	"websiteName": "tt.spaship.com",
+	"environments": [
+		"prod",
+		"develop",
+		"stage"
+	],
+	"branch": "test1.redhat.com_spaship",
+	"name": "/contact",
+	"mapping": "/contact",
+	"excludeFromEnvs": [
+		"prod",
+		"develop",
+		"stage"
+	]
+}
