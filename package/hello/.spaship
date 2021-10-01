@@ -1,0 +1,17 @@
+{
+	"websiteVersion": "v1",
+	"websiteName": "mudit-test",
+	"environments": [
+		"prod",
+		"develop",
+		"stage"
+	],
+	"branch": "main",
+	"name": "/package/hello",
+	"mapping": "",
+	"excludeFromEnvs": [
+		"prod",
+		"develop",
+		"stage"
+	]
+}
