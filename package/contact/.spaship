@@ -1,0 +1,17 @@
+{
+	"websiteVersion": "v1",
+	"websiteName": "test-spaship",
+	"environments": [
+		"prod",
+		"develop",
+		"stage"
+	],
+	"branch": "main",
+	"name": "/package/contact",
+	"mapping": "modi",
+	"excludeFromEnvs": [
+		"prod",
+		"develop",
+		"stage"
+	]
+}
